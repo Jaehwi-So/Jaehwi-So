@@ -1,18 +1,17 @@
 <p>
   <em>
-    지식을 쌓아가는 병아리 개발자 | :chick: | 
+    지식을 쌓아가는 병아리 개발자
   </em>  
 </p>
+   
 - 🔭 주)미디어솔루션에서 산업기능요원 풀스택 개발자로 재직 중
 - 🎓 상명대학교 서울캠퍼스 SW융합전공 휴먼지능정보공학과 재학
 - 💻 Web & Server Full-Stack Developer
-
+   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaehwi-So%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)   
 ![Jaehwi-So's github stats](https://github-readme-stats.vercel.app/api?username=Jaehwi-So&show_icons=true)
 <!--
 **Jaehwi-So/Jaehwi-So** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
