@@ -2,8 +2,8 @@
     걸음마중인 병아리 개발자👶<br>
 </p>
    
-- 🏬 주)미디어솔루션에서 산업기능요원 웹 풀스택 개발자로 재직 중
-- 🎓 상명대학교 서울캠퍼스 SW융합전공 휴먼지능정보공학과 재학
+- 🏬 (2020.11 ~ 2022.12) 주)미디어솔루션에서 산업기능요원 웹 풀스택 개발자로 재직
+- 🎓 (2018 ~) 상명대학교 서울캠퍼스 SW융합전공 휴먼지능정보공학과 재학
 - 💻 Web & Server Full-Stack Developer
    
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaehwi-So%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)   
