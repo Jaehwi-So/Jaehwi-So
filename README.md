@@ -89,7 +89,7 @@
       <td align="left" colspan="1">
         <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
         <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">  
-        <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=graphql&logoColor=white">
+        <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
       </td>
     </tr>
     <tr>
@@ -115,7 +115,7 @@
     </tr>
     <tr>
       <td align="left" colspan="2">
-        <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=nestjs&logoColor=white">
+        <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white">
         <img src="https://img.shields.io/badge/restapi-008FC7?style=for-the-badge&logo=restapi&logoColor=white">
         <img src="https://img.shields.io/badge/electron-47848F?style=for-the-badge&logo=electron&logoColor=white">
       </td>
