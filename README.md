@@ -67,7 +67,6 @@
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
         <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black"> 
         <img src="https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-        <img src="https://img.shields.io/badge/android studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"> 
         <img src="https://img.shields.io/badge/electron-47848F?style=for-the-badge&logo=electron&logoColor=white">
       </td>
     </tr>
@@ -81,7 +80,7 @@
         </td>
     </tr>
     <tr>
-      <th align="left" rowspan="5">Backend</th>
+      <th align="left" rowspan="4">Backend</th>
       <td align="left" rowspan="1">Typescript</td>
       <td align="left" colspan="1">
         <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
