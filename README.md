@@ -74,7 +74,7 @@
     <tr>
       <th align="left">Database</th>
       <td align="left" colspan="2">
-        <img src="https://img.shields.io/badge/rdbms-4479A1?style=for-the-badge&logo=mariadb&logoColor=white"> 
+        <img src="https://img.shields.io/badge/rdbms-4479A1?style=for-the-badge&logo=mariadb&logoColor=white"> 
         <img src="https://img.shields.io/badge/nosql-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
         <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
         <img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
