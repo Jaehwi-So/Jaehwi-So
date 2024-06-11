@@ -61,9 +61,11 @@
       <th align="left">Language</th>
       <td align="left" colspan="2">
         <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=apache&logoColor=white"> 
-        <img src="https://img.shields.io/badge/C-00599C?style=flat-squaree&logo=c%2B%2B&logoColor=white">
+        <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
+        <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=black"> 
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
         <img src="https://img.shields.io/badge/CSharp-239120?style=fflat-square&logo=csharp&logoColor=white"> 
+        <img src="https://img.shields.io/badge/C-00599C?style=flat-squaree&logo=c%2B%2B&logoColor=white">
       </td>
     </tr>
     <tr>
@@ -71,10 +73,9 @@
       <td align="left" colspan="2">
         <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"> 
         <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-        <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=black"> 
         <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white">
         <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white">
+        <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white"> 
       </td>
     </tr>
     <tr>
@@ -93,8 +94,7 @@
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> 
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
         <img src="https://img.shields.io/badge/Spring Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white">
-        <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white">
-        <img src="https://img.shields.io/badge/Mybatis-D22128?style=flat-square&logo=hibernate&logoColor=white">
+        <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white">
       </td>
     </tr>
     <tr>
@@ -103,8 +103,6 @@
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">  
         <img src="https://img.shields.io/badge/Nestjs-E0234E?style=flat-square&logo=nestjs&logoColor=white">
-        <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white">
-        <img src="https://img.shields.io/badge/Typeorm-E34F26?style=flat-square&logo=typeorm&logoColor=white">
       </td>
     </tr>
     <tr>
@@ -116,20 +114,20 @@
     </tr>
     <tr>
       <td align="left" colspan="2">
-        <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white">
-        <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"> 
         <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Apache jmeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white">  
-                <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Apache Jmeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white">  
+        <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white">
       </td>
     </tr>
     <tr>
       <th align="left">Data Science</th>
       <td align="left" colspan="2">
-        <img src="https://img.shields.io/badge/Scikitlearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=black"> 
-            <img src="https://img.shields.io/badge/Opencv-5C3EE8?style=flat-square&logo=opencv&logoColor=black">
-            <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
-            <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=fflat-square&logo=apachespark&logoColor=white"> 
+          <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=black"> 
+          <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=fflat-square&logo=apachespark&logoColor=white"> 
+          <img src="https://img.shields.io/badge/Scikitlearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=black"> 
+          <img src="https://img.shields.io/badge/Opencv-5C3EE8?style=flat-square&logo=opencv&logoColor=black">
+          <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
       </td>
     </tr>
     <tr>
