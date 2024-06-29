@@ -169,7 +169,7 @@
     <th style="width:40%">설명</th>
     <th style="width:10%">저장소</th>
   </tr>
-  <tr>
+  <tr style="font-weight:bold">
     <td>2024-06-24~<br>2024-06-28</td>
     <td>개인</td>
     <td>
@@ -193,7 +193,7 @@
     </td>
     <td><a href="https://github.com/TRUSTICKET">링크</a></td>
   </tr>
-  <tr>
+  <tr style="font-weight:bold">
     <td>2024-03~<br>진행중</td>
     <td>팀</td>
     <td>
@@ -217,7 +217,7 @@
     </td>
     <td><a href="https://github.com/graProj">링크</a></td>
   </tr>
-  <tr>
+  <tr style="font-weight:bold">
     <td>2023-06~<br>2023-11</td>
     <td>팀</td>
     <td>
@@ -327,7 +327,7 @@
     <th style="width:10%">프로젝트명</th>
     <th style="width:40%">설명</th>
   </tr>
-  <tr>
+  <tr style="font-weight:bold">
     <td>2022-03 ~ <br> 2022-11</td>
     <td>
         <img src="https://img.shields.io/badge/-339933?style=flat-square&logo=Node.js&logoColor=white">
