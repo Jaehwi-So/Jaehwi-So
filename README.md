@@ -610,11 +610,7 @@
     <td>자바 프로그래밍 학습</td>
     <td><a href="https://github.com/Jaehwi-So/JAVA">링크</a></td>
   </tr>
-  
 </table>
-
-
-
 <style>
 details { margin:5px 0 10px; }
 details > summary { background:#444; color:#fff; padding:10px; outline:0; border-radius:5px; cursor:pointer; transition:background 0.5s; text-align:left; box-shadow: 1px 1px 2px gray;}
@@ -622,6 +618,4 @@ details > summary::-webkit-details-marker { background:#444; color:#fff; backgro
 details[open] > summary::-webkit-details-marker { transform:rotate3d(0, 0, 1, 180deg);}
 details[open] > summary { background:#444;}
 details[open] > summary ~ * { animation:reveal 0.5s;}
-
-
 </style>
