@@ -195,7 +195,7 @@
   </tr>
   <tr>
     <td>2024-03~<br>진행중</td>
-    <td>팀 (팀장)</td>
+    <td>팀</td>
     <td>
         <img src="https://img.shields.io/badge/-6DB33F?style=flat-square&logo=springboot&logoColor=white">
         <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=express&logoColor=white">  
@@ -219,7 +219,7 @@
   </tr>
   <tr>
     <td>2023-06~<br>2023-11</td>
-    <td>팀 (백엔드 테크리더)</td>
+    <td>팀</td>
     <td>
         <img src="https://img.shields.io/badge/-6DB33F?style=flat-square&logo=springboot&logoColor=white">
         <img src="https://img.shields.io/badge/-231F20?style=flat-square&logo=mariadb&logoColor=white"> 
