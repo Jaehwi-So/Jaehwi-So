@@ -123,7 +123,7 @@
 <br><hr><br>
 
 <h1>개발 블로그</h1>
-<img width="897" alt="image" src="https://github.com/Jaehwi-So/Jaehwi-So/assets/57826925/96387d9a-d2bb-4bcc-92ba-d782dd4435da">
+<img width="400" height="400" alt="image" src="https://github.com/Jaehwi-So/Jaehwi-So/assets/57826925/96387d9a-d2bb-4bcc-92ba-d782dd4435da">
 <td><a href="https://sjh9708.tistory.com/">https://sjh9708.tistory.com/</a></td>
 <p>제가 작업하는 내용과 관련하여 개발 블로그를 운영하고 있습니다. 백엔드 개발에서 필요한 CRUD, 인증과 인가, 파일 처리, API 문서 작성, 클라우드 배포와 컨테이너 기술, 테스트, 마이크로서비스와 관련된 내용을 주로 작성합니다.<br>
     백엔드 개발 뿐 아니라 네트워크, 운영체제, 아키텍쳐 등의 컴퓨터과학 & 머신러닝과 데이터분석과 같은 Data Science 분야의 글도 틈틈이 작성하고 있습니다. 많이 방문해주시면 좋겠습니다. </p>
