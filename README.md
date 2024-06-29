@@ -414,7 +414,7 @@
     <td><a href="https://github.com/Jaehwi-So/Proejct_BigDataAnalysis_AccidentRateRelatively">링크</a> </td>
   </tr>
   <tr>
-    <td>2020년</td>
+    <td>2021년</td>
     <td>기타 프로젝트</td>
     <td>MeloSongBot</td>
     <td>음악 트렌드를 따라가기 어려울 때 최신곡을 노티스해주는 슬랙 봇</td>
