@@ -409,6 +409,13 @@
     <th style="width:40%">내용</th>
     <th style="width:10%">저장소</th>
   </tr>
+  </tr>
+    <td>2024년</td>
+    <td>토이 프로젝트</td>
+    <td>1:1 화상 스트리밍</td>
+    <td>졸업 프로젝트에 대비, WebRTC 기술과 Electron을 사용하여 실시간 영상 스트리밍 구현</td>
+    <td><a href="https://github.com/Jaehwi-So/ToyPj_MSGamble](https://github.com/Jaehwi-So/TOY_SimpleWebRTC">링크</a></td>
+  </tr>
   <tr>
     <td>2023년</td>
     <td>팀 프로젝트</td>
@@ -418,20 +425,20 @@
   </tr>
   <tr>
     <td>2021년</td>
-    <td>기타 프로젝트</td>
+    <td>토이 프로젝트</td>
     <td>MeloSongBot</td>
     <td>음악 트렌드를 따라가기 어려울 때 최신곡을 노티스해주는 슬랙 봇</td>
     <td><a href="https://github.com/Jaehwi-So/MeloSongBot_SlackAPI">링크</a></td>
   </tr>
     <td>2020년</td>
-    <td>기타 프로젝트</td>
+    <td>토이 프로젝트</td>
     <td>MSGamble</td>
     <td>회사 동료들과의 간식내기를 위한 점수관리 웹</td>
     <td><a href="https://github.com/Jaehwi-So/ToyPj_MSGamble">링크</a></td>
   </tr>
     <tr>
     <td>2020년</td>
-    <td>팀 프로젝트</td>
+    <td>토이 프로젝트</td>
     <td>PathMaker</td>
     <td>AWT와 외판원 순회 알고리즘을 사용한 여행계획 스케줄링 시스템</td>
     <td><a href="https://github.com/Jaehwi-So/JavProject_PathMaker">링크</a></td>
