@@ -161,13 +161,13 @@
 
 <table>
   <tr>
-    <th style="width:10%">기간</th>
-    <th style="width:12%">구분</th>
-    <th style="width:13%">중심 스택</th>
+    <th style="width:15%">기간</th>
+    <th style="width:15%">구분</th>
+    <th style="width:10%">중심 스택</th>
     <th style="width:10%">소속</th>
     <th style="width:10%">프로젝트명</th>
     <th style="width:40%">설명</th>
-    <th style="width:5%">저장소</th>
+    <th style="width:10%">저장소</th>
   </tr>
   <tr>
     <td>2024-06-24~<br>2024-06-28</td>
