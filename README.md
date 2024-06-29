@@ -266,62 +266,6 @@
     </td>
     <td><a href="https://github.com/Jaehwi-So/OnlineBrainstorm">상세 보기</a></td>
   </tr>
-  <tr>
-    <td>2020-10</td>
-    <td>개인</td>
-    <td>
-        <img src="https://img.shields.io/badge/-339933?style=flat-square&logo=Node.js&logoColor=white">
-        <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=express&logoColor=white">  
-        <img src="https://img.shields.io/badge/-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
-    </td>
-    <td>-</td>
-    <td>MatchUp!</td>
-    <td>
-      <ul style="margin: 0; padding-left: 10px;">
-        <li>스포츠 경기 번개 매칭을 위한 커뮤니티</li>
-        <li>Node.js를 처음 배웠을 때 진행했던 프로젝트</li>
-        <li>웹 개발에 필요한 인증, CRUD와 복잡한 쿼리, 양방향 통신에 대한 훈련이 되었던 프로젝트입니다.</li>
-      </ul>
-    </td>
-    <td><a href="https://github.com/Jaehwi-So/WEB_Application_Pj_MatchUP">링크</a></td>
-  </tr>
-    <tr>
-    <td>2020-07</td>
-    <td>팀</td>
-    <td>
-        <img src="https://img.shields.io/badge/-61DAFB?style=flat-square&logo=android&logoColor=white">  
-        <img src="https://img.shields.io/badge/-339933?style=flat-square&logo=spring&logoColor=white">
-        <img src="https://img.shields.io/badge/-F80000?style=flat-square&logo=oracle&logoColor=white">  
-    </td>
-    <td>코리아 IT 아카데미</td>
-    <td>Greeting!</td>
-    <td>
-      <ul style="margin: 0; padding-left: 10px;">
-        <li>명함 교환을 위한 모바일 애플리케이션</li>
-        <li>안드로이드 개발을 배운 후, 처음 REST API와 연동을 해본 프로젝트</li>
-        <li>서버에서의 API 제공과 프론트엔드의 분업에 대해 이해하는 계기가 되었습니다.</li>
-      </ul>
-    </td>
-    <td><a href="https://github.com/Jaehwi-So/AndroidProject_GREET">링크</a></td>
-  </tr>
-  <tr>
-    <td>2020-06</td>
-    <td>팀</td>
-    <td>
-        <img src="https://img.shields.io/badge/-339933?style=flat-square&logo=spring&logoColor=white">
-        <img src="https://img.shields.io/badge/-F80000?style=flat-square&logo=oracle&logoColor=white">  
-    </td>
-    <td>코리아 IT 아카데미</td>
-    <td>EDU Explorer</td>
-    <td>
-      <ul style="margin: 0; padding-left: 10px;">
-        <li>전국의 학원들과 학생들의 매칭 및 정보교류를 위한 사이트</li>
-        <li>가장 처음 해본 웹 팀 프로젝트. 프론트엔드부터 백엔드, DB를 배운 후 처음 해보았던 프로젝트라 회고해보면 아쉬움이 많이 보이지만 의미도 깊습니다.</li>
-        <li>웹표준과 JSP, Legacy Spring 사용</li>
-      </ul>
-    </td>
-    <td><a href="https://github.com/Jaehwi-So/WEB_Application_Pj_MatchUP">링크</a></td>
-  </tr>
 </table>
 
 <br>
@@ -402,6 +346,73 @@
 </table>
 <br><br><hr>
 <h3>기타 프로젝트</h3>
+<table>
+  <tr>
+    <th style="width:15%">기간</th>
+    <th style="width:10%">구분</th>
+    <th style="width:10%">중심 스택</th>
+    <th style="width:10%">소속</th>
+    <th style="width:15%">프로젝트명</th>
+    <th style="width:40%">설명</th>
+    <th style="width:10%">저장소</th>
+  </tr>
+  <tr>
+    <td>2020-10</td>
+    <td>개인</td>
+    <td>
+        <img src="https://img.shields.io/badge/-339933?style=flat-square&logo=Node.js&logoColor=white">
+        <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=express&logoColor=white">  
+        <img src="https://img.shields.io/badge/-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
+    </td>
+    <td>-</td>
+    <td>MatchUp!</td>
+    <td>
+      <ul style="margin: 0; padding-left: 10px;">
+        <li>스포츠 경기 번개 매칭을 위한 커뮤니티</li>
+        <li>Node.js를 처음 배웠을 때 진행했던 프로젝트</li>
+        <li>웹 개발에 필요한 인증, CRUD와 복잡한 쿼리, 양방향 통신에 대한 훈련이 되었던 프로젝트입니다.</li>
+      </ul>
+    </td>
+    <td><a href="https://github.com/Jaehwi-So/WEB_Application_Pj_MatchUP">링크</a></td>
+  </tr>
+    <tr>
+    <td>2020-07</td>
+    <td>팀</td>
+    <td>
+        <img src="https://img.shields.io/badge/-61DAFB?style=flat-square&logo=android&logoColor=white">  
+        <img src="https://img.shields.io/badge/-339933?style=flat-square&logo=spring&logoColor=white">
+        <img src="https://img.shields.io/badge/-F80000?style=flat-square&logo=oracle&logoColor=white">  
+    </td>
+    <td>코리아 IT 아카데미</td>
+    <td>Greeting!</td>
+    <td>
+      <ul style="margin: 0; padding-left: 10px;">
+        <li>명함 교환을 위한 모바일 애플리케이션</li>
+        <li>안드로이드 개발을 배운 후, 처음 REST API와 연동을 해본 프로젝트</li>
+        <li>서버에서의 API 제공과 프론트엔드의 분업에 대해 이해하는 계기가 되었습니다.</li>
+      </ul>
+    </td>
+    <td><a href="https://github.com/Jaehwi-So/AndroidProject_GREET">링크</a></td>
+  </tr>
+  <tr>
+    <td>2020-06</td>
+    <td>팀</td>
+    <td>
+        <img src="https://img.shields.io/badge/-339933?style=flat-square&logo=spring&logoColor=white">
+        <img src="https://img.shields.io/badge/-F80000?style=flat-square&logo=oracle&logoColor=white">  
+    </td>
+    <td>코리아 IT 아카데미</td>
+    <td>EDU Explorer</td>
+    <td>
+      <ul style="margin: 0; padding-left: 10px;">
+        <li>전국의 학원들과 학생들의 매칭 및 정보교류를 위한 사이트</li>
+        <li>가장 처음 해본 웹 팀 프로젝트. 프론트엔드부터 백엔드, DB를 배운 후 처음 해보았던 프로젝트라 회고해보면 아쉬움이 많이 보이지만 의미도 깊습니다.</li>
+        <li>웹표준과 JSP, Legacy Spring 사용</li>
+      </ul>
+    </td>
+    <td><a href="https://github.com/Jaehwi-So/WEB_Application_Pj_MatchUP">링크</a></td>
+  </tr>
+</table>
 <table>
   <tr>
     <th style="width:10%">기간</th>
