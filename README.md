@@ -162,8 +162,8 @@
 <table>
   <tr>
     <th style="width:10%">기간</th>
-    <th style="width:10%">구분</th>
-    <th style="width:15%">중심 스택</th>
+    <th style="width:12%">구분</th>
+    <th style="width:13%">중심 스택</th>
     <th style="width:10%">소속</th>
     <th style="width:10%">프로젝트명</th>
     <th style="width:40%">설명</th>
