@@ -130,6 +130,8 @@
 <br>&bull; <strong>REST와 GraphQL</strong> : 주로 RESTful한 API를 개발하는 편이지만 클라이언트가 원하는 데이터를 질의해서 가져가는 GraphQL의 동향에도 주목하고 있습니다.
 <br>&bull; <strong>클라우드</strong> : 운영 및 배포 환경 구축에 필요한 강력한 도구들을 제공하는 클라우드 플랫폼의 다양한 모듈들에 관심이 있습니다.
 <br>&bull; <strong>컨테이너 기술</strong> : 개발 환경을 구축하거나 배포를 할 때 Docker 컨테이너 기술은 필수적으로 사용하는 편입니다.
+<br>&bull; <strong>프론트엔드</strong> : Angular 혹은 바닐라 JS를 사용해서 개발합니다. 프론트엔드 개발자분들만큼의 기술은 모르지만 관리자 페이지의 구축이나 개발한 API와의 연동을 테스트하기 위한 프로토타입 등을 제작할 수 있습니다.
+<br>&bull; <strong>데이터 사이언스</strong> : 제 주전공은 기계학습과 데이터분석 등의 데이터과학을 중심적으로 다루는 컴퓨터공학입니다. 인공지능 시대에서 데이터 과학자들과 함께 일하기 위해서 학과 공부도 충실히 하고 있습니다.
 
 <br><hr><br>
 <div><h3>Currently focused on this</h3></div>
