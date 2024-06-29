@@ -481,12 +481,26 @@
   </tr>
   <tr>
     <td>2023년</td>
+    <td>스터디</td>
+    <td>Spring Boot</td>
+    <td>동아리 내 Spring 공부 : 김영한님의 스프링</td>
+    <td><a href="https://github.com/lookiesmu/LOOKIE_BACK_2023/tree/JaehwiSo">링크</a> </td>
+  </tr>
+  <tr>
+    <td>2023년</td>
     <td>개인 공부</td>
     <td>NestJS : 마켓 백엔드 개발과 배포</td>
     <td>인터넷 강의 : NestJS와 GraphQL로 쇼핑몰 API를 만들고 Google Cloud에 Kubernetes로 배포, CI/CD 적용기</td>
     <td>
     <a href="https://github.com/Jaehwi-So/2023_NestJS_With_GraphQL">링크</a> <br>
     <a href="https://github.com/Jaehwi-So/RemoteGCPDeploy">링크</a> </td>
+  </tr>
+  <tr>
+    <td>2020년</td>
+    <td>개인 공부</td>
+    <td>게시판과 채팅 <br>(Node.js + Angular)</td>
+    <td>인증과 인가, CRUD 게시판, 채팅을 구현한 프론트엔드와 백엔드 공부를 위한 토이 프로젝트</td>
+    <td><a href="https://github.com/Jaehwi-So/Server-Client-Board">링크</a></td>
   </tr>
   <tr>
     <td>2020년</td>
