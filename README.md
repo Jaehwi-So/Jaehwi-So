@@ -125,18 +125,19 @@
 <br>&bull; <strong>In-memory DB</strong> : 캐싱, 사용자 세션 관리, 락 처리 등 임시적인 저장이지만 빠른 데이터 접근 속도가 필요한 경우 사용합니다.
 <br>&bull; <strong>Elasticsearch</strong> : 검색 엔진으로서의 활용합니다. ELK는 데이터 분석에도 유용하다고 들어 해당 기능도 공부해보고 싶습니다.
 <hr>
-<h3>3. 기타</h3>
+<h3>3. 서버</h3>
 &bull; <strong>메시지 브로커</strong> : 분산 시스템에서의 데이터 동기화나 이벤트 큐의 사용 목적으로 Kafka나 RabbitMQ 등을 프로젝트에 적용해 보았습니다.
-<br>&bull; <strong>REST와 GraphQL</strong> : 주로 RESTful한 API를 개발하는 편이지만 클라이언트가 원하는 데이터를 질의해서 가져가는 GraphQL의 동향에도 주목하고 있습니다.
 <br>&bull; <strong>클라우드</strong> : 운영 및 배포 환경 구축에 필요한 강력한 도구들을 제공하는 클라우드 플랫폼의 다양한 모듈들에 관심이 있습니다.
 <br>&bull; <strong>컨테이너 기술</strong> : 개발 환경을 구축하거나 배포를 할 때 Docker 컨테이너 기술은 필수적으로 사용하는 편입니다.
+<br>&bull; <strong>REST와 GraphQL</strong> : 주로 RESTful한 API를 개발하는 편이지만 클라이언트가 원하는 데이터를 질의해서 가져가는 GraphQL의 동향에도 주목하고 있습니다.
+<br><br> 
 <br>&bull; <strong>프론트엔드</strong> : Angular 혹은 바닐라 JS를 사용해서 개발합니다. 프론트엔드 개발자분들만큼의 기술은 모르지만 관리자 페이지의 구축이나 개발한 API와의 연동을 테스트하기 위한 프로토타입 등을 제작할 수 있습니다.
 <br>&bull; <strong>데이터 사이언스</strong> : 제 주전공은 기계학습과 데이터분석 등의 데이터과학을 중심적으로 다루는 컴퓨터공학입니다. 인공지능 시대에서 데이터 과학자들과 함께 일하기 위해서 학과 공부도 충실히 하고 있습니다.
 
 <br><hr><br>
 <div><h3>Currently focused on this</h3></div>
 <p>요즘 흥미를 가지고 집중해서 공부하거나, 개발에 적용시켜보려고 하는 부분들입니다.<br>
-특히 안정적인 서비스와 좋은 퍼포먼스를 보이기 위한 분산 시스템 아키텍쳐와, 클라우드 기술에 관심을 가지고 있습니다.</p>
+특히 안정적인 서비스와 좋은 퍼포먼스를 보이기 위한 마이크로서비스와 같은 분산 시스템 아키텍쳐와, 클라우드 기술에 관심을 가지고 있습니다.</p>
 <div>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">  
