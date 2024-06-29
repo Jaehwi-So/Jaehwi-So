@@ -44,8 +44,7 @@
 
 <br><hr><br>
 <div><h3>Experience</h3></div>
-<p>지금까지의 프로젝트 과정 중 사용경험이 있는 도구들입니다. 요구사항에 따라 주로 .</p>
-
+<p>지금까지의 프로젝트 과정 중 사용경험이 있는 도구들입니다. 요구사항 해결을 위한 후보군으로서 주로 선택하고는 합니다.</p>
 <table style="width: 100%; font-size:80%">
   <colgroup>
     <col style="width: 15%;">
