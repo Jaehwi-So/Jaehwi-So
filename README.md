@@ -186,6 +186,7 @@
         <img src="https://img.shields.io/badge/-DC382D?style=flat-square&logo=redis&logoColor=white">
         <img src="https://img.shields.io/badge/-005571?style=flat-square&logo=elasticsearch&logoColor=white"> 
         <img src="https://img.shields.io/badge/-DC382D?style=flat-square&logo=angular&logoColor=white">
+        <img src="https://img.shields.io/badge/-2496ED?style=flat-square&logo=docker&logoColor=white"> 
     </td>
     <td>대학생 연합 해커톤 이벤트</td>
     <td>TRUSTICKET</td>
@@ -211,6 +212,7 @@
         <img src="https://img.shields.io/badge/-61DAFB?style=flat-square&logo=react&logoColor=white"> 
         <img src="https://img.shields.io/badge/-DC382D?style=flat-square&logo=redis&logoColor=white">
         <img src="https://img.shields.io/badge/-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"> 
+        <img src="https://img.shields.io/badge/-2496ED?style=flat-square&logo=docker&logoColor=white"> 
     </td>
     <td>졸업 프로젝트</td>
     <td>DIDACTO</td>
@@ -234,6 +236,7 @@
         <img src="https://img.shields.io/badge/-DC382D?style=flat-square&logo=redis&logoColor=white">
         <img src="https://img.shields.io/badge/-61DAFB?style=flat-square&logo=android&logoColor=white"> 
         <img src="https://img.shields.io/badge/-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"> 
+        <img src="https://img.shields.io/badge/-2496ED?style=flat-square&logo=docker&logoColor=white"> 
     </td>
     <td>SK Lookie</td>
     <td>WISEFEE</td>
