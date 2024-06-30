@@ -12,6 +12,7 @@
 | 팀원 | 안윤호 | Back-end  |
 | 팀원 | 이원빈 | Back-end  |
 | 팀원 | 이지민 | Front-end |
+
 <br><br>
 
 ## 저장소
