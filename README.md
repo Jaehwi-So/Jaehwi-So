@@ -237,7 +237,7 @@
         <li>API 개발, 푸시알림 연동, 배포 기여</li>
       </ul>
     </td>
-    <td><a href="https://github.com/Jaehwi-So/SKLookie_SMU_Wisefee_Server">상세 보기</a></td>
+    <td><a href="https://github.com/Jaehwi-So/Jaehwi-So/blob/main/document/WISEFEE.md">상세 보기</a></td>
   </tr>
   <tr>
     <td>2023-06</td>
