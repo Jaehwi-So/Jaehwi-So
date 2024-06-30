@@ -249,7 +249,7 @@
         <li>모니터링을 위한 Push & Polling 기능 2차 MVP 개발 진행에 돌입했습니다.</li>
       </ul>
     </td>
-    <td><a href="https://github.com/graProj">상세 보기</a></td>
+    <td><a href="https://github.com/Jaehwi-So/Jaehwi-So/blob/main/document/DIDACTO.md">상세 보기</a></td>
   </tr>
   <tr style="font-weight:bold">
     <td>2023-06~<br>2023-11</td>
