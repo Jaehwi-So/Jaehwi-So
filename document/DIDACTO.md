@@ -112,8 +112,8 @@
 <br><br>
 
 # 유저 플로우와 ER 다이어그램
-<img src="didacto/Untitled (1).png" width="56%">
-<img src="didacto/image-4.png" width="41%">
+<img src="didacto/Untitled (1).png" width="54%">
+<img src="didacto/image-4.png" width="40%">
 
 
 
