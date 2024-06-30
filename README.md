@@ -165,7 +165,7 @@
     <th style="width:10%">소속</th>
     <th style="width:15%">프로젝트명</th>
     <th style="width:40%">설명</th>
-    <th style="width:10%">저장소</th>
+    <th style="width:10%">상세</th>
   </tr>
   <tr style="font-weight:bold">
     <td>2024-06-24~<br>2024-06-28</td>
