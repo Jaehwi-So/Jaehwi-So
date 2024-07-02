@@ -183,11 +183,11 @@
         <img src="https://img.shields.io/badge/-DC382D?style=flat-square&logo=angular&logoColor=white">
         <img src="https://img.shields.io/badge/-2496ED?style=flat-square&logo=docker&logoColor=white"> 
     </td>
-    <td>대학생 연합 해커톤 이벤트</td>
+    <td>대학생 해커톤 이벤트</td>
     <td>TRUSTICKET</td>
     <td>
       <ul style="margin: 0; padding-left: 10px;">
-        <li>신뢰성 있는 티켓 발권 시스템 구축. 1주일간의 해커톤 진행</li>
+        <li>신뢰성 있는 티켓 발권 시스템 구축. 1주일간의 해커톤 개인 프로젝트 진행</li>
         <li>5개의 서비스와 Spring Cloud를 이용한 마이크로서비스 구축 </li>
         <li>카프카를 사용하여 대기열 큐 구성 및 MSA 통신</li>
         <li>Elastic을 사용하여 한국어 토큰 기반의 검색 구성</li>
