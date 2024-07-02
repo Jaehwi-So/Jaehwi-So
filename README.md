@@ -442,7 +442,7 @@
         <li>웹표준과 JSP, Legacy Spring 사용</li>
       </ul>
     </td>
-    <td><a href="https://github.com/Jaehwi-So/WEB_Application_Pj_MatchUP">링크</a></td>
+    <td><a href="https://github.com/Jaehwi-So/WEB_Project_EduExplorer">링크</a></td>
   </tr>
 </table>
 <table>
