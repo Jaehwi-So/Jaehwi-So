@@ -6,11 +6,16 @@
 <h3>
     걸음마중인 병아리 개발자👶<br>
 </h3>
-<p>
+
 - 안정적이고 신뢰성 있는 서비스를 제작하면서 동시에 도전적인 정신을 바탕으로 어제보다 오늘의 코드가 나아지길 바라는 개발자입니다.<br>
 - 백엔드 엔지니어의 업무에 가장 흥미를 가지고 있으며 주로 프로젝트에서 해당 파트를 맡아 시스템을 개발해 왔습니다. <br>
 - 주로 개발을 담당하지는 않지만 프론트엔드와 머신러닝 영역에도 재미를 느끼고 있어 꾸준하게 관심을 가지고 있습니다.
-</p>
+<br>
+<div><h3>전공</h3></div>
+
+상명대학교(Sangmyung univ. Seoul)
+- 휴먼지능정보공학과(Human centered AI, 주전공)
+- 컴퓨터과학과 (Computer Science, 부전공)
 
 <!--
 **Jaehwi-So/Jaehwi-So** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
