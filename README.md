@@ -17,7 +17,7 @@
 
 - 휴먼지능정보공학과(Human centered AI, 주전공)
 - 컴퓨터과학과 (Computer Science, 부전공)
-- 
+  
 <br>
 
 <div><h3>Career</h3></div>
