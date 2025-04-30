@@ -14,11 +14,15 @@
 
 <div><h3>Major</h3></div>
 상명대학교(Sangmyung univ. Seoul)
+
 - 휴먼지능정보공학과(Human centered AI, 주전공)
 - 컴퓨터과학과 (Computer Science, 부전공)
+- 
 <br>
+
 <div><h3>Career</h3></div>
 주)미디어솔루션(2020.11-2022.12)
+
 - Back-end & Server Developer (산업기능요원)
 
 
