@@ -14,7 +14,6 @@
 - 휴먼지능정보공학과(Human centered AI, 주전공)
 - 컴퓨터과학과 (Computer Science, 부전공)
   
-<br>
 
 <div><h3>Career</h3></div>
 주)미디어솔루션(2020.11-2022.12)
@@ -35,8 +34,7 @@
 - ⚡ Fun fact: ...
 -->
 
-<br><br>
-<h1>개발 도구</h1>
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaehwi-So&langs_count=8&layout=compact)]()
 
